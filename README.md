@@ -8,5 +8,7 @@ Ever hated the fact that you have to walk to the thermostat to see if the room t
 ## References
 
 https://github.com/thirdless/LedMatrix
+
 https://pdf1.alldatasheet.com/datasheet-pdf/view/527976/NXP/74HC595.html
+
 https://pdf1.alldatasheet.com/datasheet-pdf/view/650277/NXP/74HC138.html
