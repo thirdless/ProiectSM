@@ -3,7 +3,7 @@
 
 ## Story
 
-Ever hated the fact that you have to walk to the thermostat to see if the room temperature is good enough, or that you have to do 5 different swipe gestures on your phone to get to the weather app, just to find out if you need to wear a jacket or only a t-shirt when you want to get outside? This solution unifies these things into one small and fun project, where you get all the data you want at a single glance.
+Ever hated the fact that you have to walk to the thermostat to see if the room temperature is good enough, or that you have to do 5 different swipe gestures on your phone to get to the weather app, just to find out if you need to wear a jacket or only a t-shirt when you want to go outside? This solution unifies these things into one small and fun project, where you get all the data you want at a single glance.
 
 ## References
 
